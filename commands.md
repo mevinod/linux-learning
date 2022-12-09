@@ -22,6 +22,6 @@
 `=` - This is used to assign something to something <br>
 `echo "Text"` - Echo is used to print anything. This will print Text. <br>
 Example: Here I am assigning a=2 <br>
-`a=2` <br>
+`a=2` <br> 
 `echo $a` - This will print what's there in varaiable a <br>
 ![image](https://user-images.githubusercontent.com/34798214/201976291-316fb273-31ef-4b14-8729-6d8c7b7445cc.png)

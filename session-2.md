@@ -10,6 +10,14 @@ Commands
 - `grep -i/-v/-A/-B/-C`
 
 
+Networking:
+- `curl`
+- `ping`
+- `nslookup`
+- `tracert`
+- `nc`
+- `ip`
+
 Terminal - Controls
 
 - L: clear screen

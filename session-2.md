@@ -1,3 +1,5 @@
+Commands
+
 - `ssh`
 - `scp`
 - `editor - vi/nano`
@@ -6,3 +8,15 @@
 - `more/less`
 - `head/tail`
 - `grep -i/-v/-A/-B/-C`
+
+
+Terminal - Controls
+
+- L: clear screen
+- D: Logout
+- A: Curstor to start of the line
+- E: End of the line
+- U: Delete to left of the cursor
+- K: Delete to right of the cursor
+- W: delete word on cursor left
+- Y: paste

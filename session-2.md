@@ -8,7 +8,19 @@ Commands
 - `more/less`
 - `head/tail`
 - `grep -i/-v/-A/-B/-C`
+- `cp`
+- `mv`
+- `mkdir`
+- `rm`
+- `find`
+- `diff`
+- 
 
+
+Storage
+- `df`
+- `du`
+- `top`
 
 Networking:
 - `curl`
@@ -17,6 +29,7 @@ Networking:
 - `tracert`
 - `nc`
 - `ip`
+- wget`
 
 Terminal - Controls
 

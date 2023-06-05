@@ -13,3 +13,6 @@ Linux Training - session 1
 - .bashrc & /etc/enviornment
 - File creation & sudo permission/paths
 - alisases
+
+
+https://wtools.io/chmod-calculator

@@ -4,7 +4,7 @@ Commands
 - `scp`
 - `editor - vi/nano`
 - `cat/tac`
-- `(vi): i/o esc:wq!/u/dd/shift+g/dd+shiftG/D(:%s/old/newg)`
+- `(vi): i/o esc:wq!/u/dd/shift+g/ctrl+Home/gg+d+Shift+G/(:%s/old/newg)`
 - `more/less`
 - `head/tail`
 - `grep -i/-v/-A/-B/-C`

@@ -22,6 +22,7 @@ Storage
 - `top`
 - `findmnt`
 - `fdisk -l`
+- (lvg/vg creations - todo)
 
 Networking:
 - `curl`

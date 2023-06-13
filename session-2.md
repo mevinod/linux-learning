@@ -28,7 +28,7 @@ Networking:
 - `curl`
 - `ping`
 - `nslookup`
-- `tracert`
+- `tracert` (dif network demo)
 - `nc`
 - `ip`
 - `wget`

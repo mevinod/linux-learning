@@ -20,6 +20,8 @@ Storage
 - `df`
 - `du`
 - `top`
+- `findmnt`
+- `fdisk -l`
 
 Networking:
 - `curl`
@@ -28,7 +30,7 @@ Networking:
 - `tracert`
 - `nc`
 - `ip`
-- wget`
+- `wget`
 
 Terminal - Controls
 

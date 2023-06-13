@@ -10,7 +10,7 @@ Commands
 - `grep -i/-v/-A/-B/-C`
 - `cp`
 - `mv`
-- `mkdir`
+- `mkdir`  `rmdir`
 - `rm`
 - `find`
 - `diff`

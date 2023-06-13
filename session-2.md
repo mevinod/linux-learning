@@ -32,6 +32,7 @@ Networking:
 - `nc`
 - `ip`
 - `wget`
+- `telnet`
 
 Terminal - Controls
 

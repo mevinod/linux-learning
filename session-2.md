@@ -1,6 +1,8 @@
 Commands
 
 - `ssh`
+   - .ssh permission (700)
+   - .ssh/authorized_keys permission (600)
 - `scp`
 - `editor - vi/nano`
 - `cat/tac`

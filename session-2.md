@@ -24,7 +24,10 @@ Storage
 - `top`
 - `findmnt`
 - `fdisk -l`
-- (lvg/vg creations - todo)
+- Volumes:
+  - `pvdisplays`
+  - `vgdisplay` /`vgcreate vg00 /dev/sdb`
+  - 
 
 Networking:
 - `curl`

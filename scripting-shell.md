@@ -29,3 +29,16 @@ Example: Here I am assigning a=2 <br>
 
 1. Create a simple script to copy file from remote server to local system and local system to remote system
 2. Script to check storage size in a given directory
+3. I have vmware.log file in /var/log/ directory. I need to print/Show text matching "Storage" with 2 lines After and 2 lines Before.
+4. What is the permission value for User can read and execute None has any other access
+5. What is chmod 660
+6. How to list all files and folders in /etc/nginx/ directory
+7. Command to find and replace text in vi
+8. How to see the running content of a file in /var/log/nginx/access.log
+9. As a root how to set/change password for a user
+10. There is a user foo, how to add foo to group viewer
+11. Command to download a file from server (username, password, server IP, directory)
+12. How to find error.log in your system (Whole system)
+13. How to download a file from URL: https://mevinod.com/testfile.txt
+14. How to find the IP address of a domain name
+15. How to view first 5 lines of a file

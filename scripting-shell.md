@@ -27,8 +27,8 @@ Example: Here I am assigning a=2 <br>
 ![image](https://user-images.githubusercontent.com/34798214/201976291-316fb273-31ef-4b14-8729-6d8c7b7445cc.png)
 
 
-1. Create a simple script to copy file from remote server to local system and local system to remote system
-2. Script to check storage size in a given directory
+1. ~~Create a simple script to copy file from remote server to local system and local system to remote system~~
+2. ~~Script to check storage size in a given directory~~
 3. I have vmware.log file in /var/log/ directory. I need to print/Show text matching "Storage" with 2 lines After and 2 lines Before.
 4. What is the permission value for User can read and execute None has any other access
 5. What is chmod 660

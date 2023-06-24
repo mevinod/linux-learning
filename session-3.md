@@ -9,3 +9,23 @@
 - `date`
 - `id`
 - `who`
+
+Session 
+
+## Another session 
+- | & >> $
+- echo
+- *
+- cut | sort
+- tar
+- tr
+- awk
+- sed
+- history
+- journalctl
+- cron
+- process/kill
+- yum/rpm
+- partitions
+
+- 
